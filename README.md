@@ -35,11 +35,7 @@ To learn more about thirdweb, Vite and React, take a look at the following resou
 - [React documentation](https://reactjs.org/) - learn React.
 - [Templates](https://thirdweb.com/templates)
 
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
 
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
 
 
 ## Getting Started
@@ -85,7 +81,3 @@ npm run release
 # or
 yarn release
 ```
-
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
